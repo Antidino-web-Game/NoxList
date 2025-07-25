@@ -1,4 +1,11 @@
-# NoxList
+
+<h1 text-align="center">NoxList</h1> 
+
+![Logo de NoxList](unnamed.png "Le logo de l'application NoxList")
+
+---
+## 🌙 Organisez vos tâches, même dans la nuit !
+...
 
 ---
 
