@@ -35,7 +35,7 @@ Assurez-vous d'avoir Python 3.x installé sur votre machine.
 
 1.  **Clonez le dépôt (ou téléchargez les fichiers) :**
     ```bash
-    git clone [https://github.com/votre_utilisateur/NoxList.git](https://github.com/votre_utilisateur/NoxList.git)
+    git clone [https://github.com/Antidino-web-Game/NoxList.git)
     cd NoxList
     ```
 
